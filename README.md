@@ -1,1 +1,1 @@
-# ReadNext-Your-Personalized-Book-Guide
+# ReadNext - Your Personalized Book Guide
